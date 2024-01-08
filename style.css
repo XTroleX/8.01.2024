@@ -1,0 +1,50 @@
+.box{
+    width: auto;
+    height: auto;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(94, 0, 117);;
+    height: 100px
+}
+li{
+    display: inline-block;
+    float: right;
+}
+li a{
+    margin-right: 20pxs;
+    display: block;
+    float: right;
+    text-decoration: none;
+    padding: 30px 30px;
+    color: white;
+    font-size: larger;
+}
+li a:hover{
+    background-color: rgb(122, 0, 92);;
+    height: 30px;
+}
+ul img{
+    padding: 20px;
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+}
+.pl{
+    width: 300px;
+    display: inline-block;
+}
+.center{
+    display: block;
+    display: flex;
+}
+h1{
+    background-color:rgb(163, 14, 14) ;
+}
