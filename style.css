@@ -36,6 +36,7 @@ ul img{
 h1{
     font-size: 80px;
     text-align: center;
+    background-color:rgb(163, 14, 14) ;
 }
 .pl{
     width: 300px;
@@ -45,6 +46,39 @@ h1{
     display: block;
     display: flex;
 }
-h1{
-    background-color:rgb(163, 14, 14) ;
+main{
+   display: flex;
+   padding: 20px 400px;
+}
+.g1{
+    float: left;
+    width: 300px;
+    display: block;
+    margin: 150px;
+    border: solid black 2px;
+}
+.g2{float: left;
+    width: 300px;
+    display: block;
+    margin: 150px;
+    border: solid black 2px;
+}
+.g3{
+    float: left;
+    width: 300px;
+    display: block;
+    margin: 150px;
+    border: solid black 2px;
+}
+.t{
+float: right;
+text-decoration: none;
+}
+.y{
+float: right;
+text-decoration: none;
+}
+.u{
+float: right;
+text-decoration: none;
 }
